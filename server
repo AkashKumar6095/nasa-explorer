@@ -1,0 +1,7 @@
+nasa-explorer-backend/
+├── package.json
+├── server.js (or index.js)
+├── .env
+├── node_modules/
+├── package-lock.json
+├── .gitignore
