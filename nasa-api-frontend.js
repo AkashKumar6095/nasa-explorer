@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { motion } from "framer-motion";
 
-const NASA_API_ENDPOINT = "https://your-backend-url/api/nasa";
+const NASA_API_ENDPOINT = "https://github.com/AkashKumar6095/nasa-explorer/blob/main/nasa-backend-explorer.js";
 
 export default function NasaApp() {
   const [data, setData] = useState(null);
